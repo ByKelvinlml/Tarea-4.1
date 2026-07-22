@@ -11,7 +11,7 @@ Aplicación desarrollada en Java Swing utilizando NetBeans que permite capturar 
 - Matrícula
 - Nombres
 - Apellidos
-- Cuatrimestre
+- Carrera
 
 ## Funcionalidades
 
